@@ -1,0 +1,8 @@
+{
+  "name": "My Portfolio",
+  "description": "A barebones Node.js website using Express 4 to showcase my portfolio.",
+  "repository": "https://github.com/gurpreetsingh00885/portfolio",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
